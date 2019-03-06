@@ -3,7 +3,7 @@ Inline Activity Result
 
 [![Language](https://img.shields.io/badge/compatible-java%20%7C%20kotlin%20%7C%20rx-brightgreen.svg)](https://www.github.com/florent37/InlineActivityResult)
 
-**Work in progress**
+**Work in progress(test)**
 
 Receive the activity result directly after the startActivityForResult with InlineActivityResult, choose your way : 
 - [Kotlin](https://github.com/florent37/InlineActivityResult#kotlin)
